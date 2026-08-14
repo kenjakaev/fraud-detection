@@ -8,3 +8,7 @@ catboost_info/
 .env
 
 __pycache__/
+
+.vscode/
+
+.ruff_cache/
